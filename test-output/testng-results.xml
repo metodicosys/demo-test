@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-14T10:31:57 PET" name="Data Driven Basics" finished-at="2023-02-14T10:32:14 PET" duration-ms="17715">
+    <groups>
+    </groups>
+    <test started-at="2023-02-14T10:31:57 PET" name="App Manager Login Test" finished-at="2023-02-14T10:32:14 PET" duration-ms="17715">
+      <class name="com.m2a.testcases.TFLogin">
+        <test-method is-config="true" signature="reportListener()[pri:0, instance:com.m2a.testcases.TFLogin@533bda92]" started-at="2023-02-14T10:31:57 PET" name="reportListener" finished-at="2023-02-14T10:31:57 PET" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportListener -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.m2a.testcases.TFLogin@533bda92]" started-at="2023-02-14T10:31:57 PET" name="setup" finished-at="2023-02-14T10:32:14 PET" duration-ms="17676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="appTest()[pri:0, instance:com.m2a.testcases.TFLogin@533bda92]" started-at="2023-02-14T10:32:14 PET" name="appTest" finished-at="2023-02-14T10:32:14 PET" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appTest -->
+        <test-method signature="testOne()[pri:0, instance:com.m2a.testcases.TFLogin@533bda92]" started-at="2023-02-14T10:32:14 PET" name="testOne" finished-at="2023-02-14T10:32:14 PET" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.m2a.testcases.TFLogin@533bda92]" started-at="2023-02-14T10:32:14 PET" name="teardown" finished-at="2023-02-14T10:32:14 PET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="onFinish()[pri:0, instance:com.m2a.testcases.TFLogin@533bda92]" started-at="2023-02-14T10:32:14 PET" name="onFinish" finished-at="2023-02-14T10:32:15 PET" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onFinish -->
+      </class> <!-- com.m2a.testcases.TFLogin -->
+    </test> <!-- App Manager Login Test -->
+  </suite> <!-- Data Driven Basics -->
+</testng-results>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Data Driven Basics]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="App Manager Login Test(failed)(failed)">
+    <classes>
+      <class name="com.m2a.testcases.TFLogin">
+        <methods>
+          <include name="testOne"/>
+          <include name="teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.m2a.testcases.TFLogin -->
+    </classes>
+  </test> <!-- App Manager Login Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Data Driven Basics]] -->
