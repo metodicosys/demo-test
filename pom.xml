@@ -177,7 +177,7 @@
 	</dependencies>
 <profiles> 
 <profile>
-        <id>testng</id>
+        <id>appsurgir</id>
         <build>
             <plugins>
                 <plugin>
